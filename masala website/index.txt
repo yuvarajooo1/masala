@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> masala </title>
+<style>
+body{
+background-img:url("main1.jpeg");
+}
+
+<style>
+<head>
+<body>
+
+</body>
+</html>  
